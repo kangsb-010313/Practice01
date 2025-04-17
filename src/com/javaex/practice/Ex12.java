@@ -14,12 +14,18 @@ public class Ex12 {
 		byte n = 1000;
 		*/
 		
-		int x = 0, y = 0;
+		//int x = 0, y = 0;
+		int x = 0;
+		int y = 0;
 		System.out.println(x);
+		System.out.println(y);
+		
 		char grade = 'A';
 		System.out.println(grade);
+		
 		int salary = 2000000;
 		System.out.println(salary);
+		
 		short n = 1000;
 		System.out.println(n);
 		
