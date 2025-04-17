@@ -5,7 +5,7 @@ public class Ex01 {
 	public static void main(String[] args) {
 		
 		/*
-		 * 정답: 4번
+		 * 정답: 2번
 		 * float = 실수형자료형
 		
 		다음중 기본 자료형중 정수형자료형이 아닌 것은?
