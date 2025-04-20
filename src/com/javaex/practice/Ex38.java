@@ -8,8 +8,12 @@ public class Ex38 {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.print("전체금액을 입력해주세요: ");
+		long price = sc.nextLong();
 		
+		long disprice = price - (price % 1000);
 		
+		System.out.println("실제지불금액은 " + disprice + " 입니다.");
 		
 		
 		
